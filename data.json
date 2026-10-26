@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "patientName": "Hiroshi Curimatmat",
+    "age": 34,
+    "contactNumber": "0912 223 1234",
+    "service": "General Consultation",
+    "priority": "Regular",
+    "status": "Waiting",
+    "createdAt": "10/10/2026 6:24:00"
+  },
+  {
+    "id": 2,
+    "patientName": "Gabriel Dela Cruz",
+    "age": 67,
+    "contactNumber": "0918 555 0198",
+    "service": "Laboratory",
+    "priority": "Priority",
+    "status": "Waiting",
+    "createdAt": "10/26/2026 8:18:00"
+  },
+  {
+    "id": 3,
+    "patientName": "Kenneth John Cantillas",
+    "age": 9,
+    "contactNumber": "0920 555 0176",
+    "service": "Vaccination",
+    "priority": "Regular",
+    "status": "Waiting",
+    "createdAt": "10/26/2026 8:32:00"
+  },
+  {
+    "id": 4,
+    "patientName": "Jedd Juab",
+    "age": 41,
+    "contactNumber": "0919 555 0135",
+    "service": "Dental Check-up",
+    "priority": "Regular",
+    "status": "Waiting",
+    "createdAt": "10/26/2026 8:47:00"
+  },
+  {
+    "id": 5,
+    "patientName": "Jan Carlo Juab",
+    "age": 29,
+    "contactNumber": "0917 555 0123",
+    "service": "General Consultation",
+    "priority": "Priority",
+    "status": "Waiting",
+    "createdAt": "10/26/2026 9:01:00"
+  }
+]
